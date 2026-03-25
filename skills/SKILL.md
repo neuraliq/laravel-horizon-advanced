@@ -100,7 +100,7 @@ You are working with Laravel applications that need robust background job proces
 'balance' => 'simple',
 
 // Fixed count (for development)
-'balance' => 'false',
+'balance' => false,
 'processes' => 3,
 ```
 
